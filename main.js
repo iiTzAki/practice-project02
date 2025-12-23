@@ -12,3 +12,10 @@ function getComputerChoice() {
     }
 
 }
+
+
+// Function for User's input prompt
+
+function getHumanChoice() {
+    let humanChoice = prompt("Rock, Paper, Scissors: ")
+}
