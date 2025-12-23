@@ -1,3 +1,8 @@
+// Initializing two varaibles to keep track of the scores
+
+const humanScore = 0;
+const computerScore = 0;
+
 // Function for getting Computer's turn
 
 function getComputerChoice() {
@@ -12,7 +17,6 @@ function getComputerChoice() {
     }
 
 }
-
 
 // Function for User's input prompt
 
